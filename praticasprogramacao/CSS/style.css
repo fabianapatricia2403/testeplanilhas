@@ -1,0 +1,45 @@
+<style>
+h1{ 
+    color:black;
+    text-align: center;
+  }
+
+  p{
+        text-align: justify;
+        color:gray
+    }
+    .destaque{
+
+            background-color:blue;
+            color: aliceblue;
+            padding: 20px;
+            margin-bottom: 20px;
+    }
+
+    #img-logo{
+
+        width: 350px;
+    }
+
+    nave li{
+
+        display: inline;
+        margin-left: 5px;
+        color: rgb(65, 12, 136);
+        font-weight:bold;
+        border: 2px solid;
+        
+    }
+
+    nave{
+
+        float: right;
+    }
+
+main {
+
+    margin: auto 20%;
+    background-color: burlywood;
+}
+   
+        </style>
